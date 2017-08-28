@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <head>
 <script src="/assets/jquery.js"></script>
 <link href='https://fonts.googleapis.com/css?family=Londrina+Shadow' rel='stylesheet' type='text/css'>
@@ -25,12 +25,12 @@ h1 {
 }
 h2 {
   text-align: center;
-  color: #ff99bb;
+  color: #330011;
   margin: 0px 0 70px 0;
 }
 p {
   color: #990033;
-  background: black;
+  background: #cc0066;
   background: linear-gradient(bottom, rgba(255, 77, 136,1), rgba(255, 204, 221,.4);
   background: -webkit-linear-gradient(bottom, rgba(255, 77, 136,1),rgba(255, 204, 221,.4));
   background: -moz-linear-gradient(bottom, rgba(255, 77, 136,1), rgba(255, 204, 221,.4));
