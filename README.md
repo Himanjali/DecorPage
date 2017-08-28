@@ -7,7 +7,7 @@ body {
   font-family: helvetica, sans-serif;
   margin: 0 auto;
   max-width: 600px;
-  background: #232323;
+  background: url("pexels-photo-131637.jpeg");
 }
 div {
   height: 200px;
@@ -20,20 +20,20 @@ h1 {
   font-family: 'Londrina Shadow', cursive;
   text-align: center;
   font-size: 75px;
-  color: #aaaaaa;
+  color:#330011;
   margin: 60px 0 0 0;
 }
 h2 {
   text-align: center;
-  color: #bbbbbb;
+  color: #ff99bb;
   margin: 0px 0 70px 0;
 }
 p {
-  color: rgba(255,255,255,1);
+  color: #990033;
   background: black;
-  background: linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
-  background: -webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
-  background: -moz-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+  background: linear-gradient(bottom, rgba(255, 77, 136,1), rgba(255, 204, 221,.4);
+  background: -webkit-linear-gradient(bottom, rgba(255, 77, 136,1),rgba(255, 204, 221,.4));
+  background: -moz-linear-gradient(bottom, rgba(255, 77, 136,1), rgba(255, 204, 221,.4));
   padding: 10px;
   line-height: 28px;
   text-align: justify;
@@ -59,13 +59,16 @@ small {
 }
 
 .first{
-  background-image: url("http://dash.ga.co/assets/firstcourse.jpg");
+  background-image: url("white-ceiling-lamp-38624.jpeg");
 }
 .second{
-  background-image: url("http://dash.ga.co/assets/secondcourse.jpg");
+  background-image: url("abstract-close-up-dark-decor-276617.jpeg");
 }
 .third{
-  background-image: url("http://dash.ga.co/assets/dessertcourse.jpg");
+  background-image: url("art-artistic-beautiful-bloom-311458.jpeg");
+}
+.fourth{
+  background-image: url("flowers-books-desk-house-48012.jpeg");
 }
 .price {
   float: right;
@@ -113,7 +116,7 @@ small {
   
 <div class="third">
   <p> Colorful cactus in a cup <span class = "price"> $15</span> <br />
-    <small>A very elegant decorative piece in the home which adds colors and brightens up to the monotonous area</small> 
+    <small>A very elegant decorative piece in the home which adds colors and brightens up the entire area</small> 
   </p>
 </div>
 
