@@ -19,7 +19,7 @@ div {
 h1 {
   font-family: 'Londrina Shadow', cursive;
   text-align: center;
-  font-size: 75px;
+  font-size: 200px;
   color:#330011;
   margin: 60px 0 0 0;
 }
